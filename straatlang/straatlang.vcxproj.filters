@@ -29,21 +29,21 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Lexer.h">
+    <ClInclude Include="Lexer.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Program.h">
+    <ClInclude Include="Program.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Token.h">
+    <ClInclude Include="Token.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TokenType.h">
+    <ClInclude Include="TokenType.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Voorbeeld.straat">
+    <None Include="voorbeeld.straat">
       <Filter>Straatlang Examples</Filter>
     </None>
   </ItemGroup>

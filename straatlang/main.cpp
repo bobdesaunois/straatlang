@@ -1,9 +1,9 @@
-#include "Program.h"
+#include "Program.hpp"
 
 int main ()
 {
 
-	Lexer lexer;
+	Straatlang::Lexer lexer;
 
 	return 0;
 

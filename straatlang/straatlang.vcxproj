@@ -116,13 +116,13 @@
     <ClCompile Include="Token.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Lexer.h" />
-    <ClInclude Include="Program.h" />
-    <ClInclude Include="Token.h" />
-    <ClInclude Include="TokenType.h" />
+    <ClInclude Include="Lexer.hpp" />
+    <ClInclude Include="Program.hpp" />
+    <ClInclude Include="Token.hpp" />
+    <ClInclude Include="TokenType.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Voorbeeld.straat" />
+    <None Include="voorbeeld.straat" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

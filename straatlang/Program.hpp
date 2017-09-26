@@ -8,6 +8,6 @@
 
 #include <iostream>
 
-#include "Lexer.h"
+#include "Lexer.hpp"
 
 #endif
