@@ -1,5 +1,5 @@
-#ifndef PROGRAM_H
-#define PROGRAM_H
+#ifndef PROGRAM_HPP
+#define PROGRAM_HPP
 
 /*
  * This is an interpreter that interprets Straatlang.

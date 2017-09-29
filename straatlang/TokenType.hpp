@@ -1,5 +1,5 @@
-#ifndef TOKENTYPE_H
-#define TOKENTYPE_H
+#ifndef TOKENTYPE_HPP
+#define TOKENTYPE_HPP
 
 namespace Straatlang
 {
