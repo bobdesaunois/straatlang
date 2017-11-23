@@ -11,11 +11,11 @@ namespace Straatlang
 
 	private:
 
-		const Source &source;
+		const Source *source;
 
 	public:
 
-		Lexer (const Source &source);
+		Lexer (const Source *source);
 
 	};
 
