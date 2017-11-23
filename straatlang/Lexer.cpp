@@ -1,4 +1,4 @@
-#include "Lexer.hpp";
+#include "Lexer.hpp"
 
 Straatlang::Lexer::Lexer (const Source &source)
 	: source (source) 
@@ -6,4 +6,4 @@ Straatlang::Lexer::Lexer (const Source &source)
 
 	this->source = *source;
 
-}
+};
