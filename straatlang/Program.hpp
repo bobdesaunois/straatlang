@@ -7,7 +7,11 @@
  */
 
 #include <iostream>
+#include <string>
 
+#include "Token.hpp"
+#include "TokenType.hpp"
 #include "Lexer.hpp"
+#include "Source.hpp"
 
 #endif

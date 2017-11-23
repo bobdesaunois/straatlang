@@ -3,7 +3,8 @@
 int main ()
 {
 
-	Straatlang::Lexer lexer;
+	Straatlang::Source	source;
+	Straatlang::Lexer	lexer (&source);
 
 	return 0;
 

@@ -1,6 +1,9 @@
 #include "Token.hpp"
 
 template<class T>
-Straatlang::Token::Token ()
+Straatlang::Token<T>::Token ()
 {
+
+
+
 }

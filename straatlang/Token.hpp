@@ -9,6 +9,8 @@ namespace Straatlang
 	template<class T>
 	class Token
 	{
+		
+	private:
 
 		TokenType type;
 
